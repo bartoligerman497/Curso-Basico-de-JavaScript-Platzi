@@ -1,1 +1,1 @@
-# Curso-B-sico-de-JavaScript-Platzi
+# Curso-Basico-de-JavaScript-Platzi
